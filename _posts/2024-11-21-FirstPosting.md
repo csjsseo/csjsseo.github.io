@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "[Diary] 기술 블로그를 시작한 이유"
-author:
-    name: Park JongSeo
-    link: https://github.com/csjsseo
+title: "기술 블로그를 시작한 이유"
 date: 2024-11-21 22:30:00 +0900
 categories: [Diary]
 tags: [Diary]

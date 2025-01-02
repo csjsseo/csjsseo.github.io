@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "[Algorithm] 이진탐색(BinarySearch)과 응용"
-author:
-    name: "JongSeo"
-    link: https://github.com/csjsseo
+title: "이진탐색(BinarySearch)과 응용"
+
 date: 2024-11-25 23:45:00 +0900
 categories: [CodingTest, Algorithm]
 tags: [Algorithm, Java, BinarySearch]

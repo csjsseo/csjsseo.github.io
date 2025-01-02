@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "[DataStructure] 우선순위 큐(PriorityQueue)과 최대 힙(MaxHeap)"
-author:
-    name: "JongSeo"
-    link: https://github.com/csjsseo
+title: "우선순위 큐(PriorityQueue)과 최대 힙(MaxHeap)"
+
 date: 2024-11-22 17:00:00 +0900
-categories: [CodingTest, DataStructure]
+categories: [CodingTest, Data Structure]
 tags: [priorityQueue, Java, MaxHeap]
 ---
 
